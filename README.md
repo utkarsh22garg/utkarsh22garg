@@ -5,10 +5,10 @@ I'm a passionate software developer with a keen interest in web development, ope
 ## 🚀 Skills and Technologies
 
 - **Languages:** JavaScript, TypeScript, Python, Java, C++
-- **Frontend:** React, Vue.js, HTML, CSS, SASS
-- **Backend:** Node.js, Express, Spring Boot
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **DevOps:** Docker, Kubernetes, CI/CD, Azure
+- **Frontend:** React, HTML, CSS, SASS
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, MSSQL
+- **DevOps:** Docker, Kubernetes
 - **Tools:** Git, GitHub, VS Code, Webpack, Babel
 
 ## 🌱 Currently Learning
