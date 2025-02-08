@@ -32,11 +32,11 @@ I'm a passionate software developer with a keen interest in web development, ope
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you can find me exploring nature, reading books, or playing chess.
+When I'm not coding, you can find me exploring nature, riding bikes, or playing badminton.
 
 Feel free to reach out if you'd like to connect, collaborate, or just have a chat!
 
 ---
 ⭐️ From [utkarsh22garg](https://github.com/utkarsh22garg)
 
-*Profile last updated on 2025-02-08 10:25:48 UTC*
+*Profile last updated on 2025-02-08 3:59 IST*
